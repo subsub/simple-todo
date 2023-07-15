@@ -6,7 +6,7 @@ cask "simple-todo" do
       verified: "github.com/subsub/Simple-Todo-MacOS/"
   name "Simple Todo Bar"
   desc "Simple todo-list for MacOS status menu bar"
-  homepage "https://github.com/subsub/Simple-Todo-MacOS/"
+  homepage "https://www.subkhansarif.id/post/simple-todo-bar-mac-app"
 
   app "Simple Todo Bar.app"
 
