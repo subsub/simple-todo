@@ -1,6 +1,6 @@
 cask "simple-todo" do
-  version "0.0.2-beta"
-  sha256 "76f6f33def8f029ea9f6f7a0c54354ff14cbab15383ffc5d7cad8416f61b54e7"
+  version "0.0.3-beta"
+  sha256 "d4074f3d5d06c7db34e05246bc274a33451f9d68d597a6d212a58177e3aa011e"
 
   url "https://github.com/subsub/Simple-Todo-MacOS/releases/download/#{version}/Simple.Todo.Bar.app.zip",
       verified: "github.com/subsub/Simple-Todo-MacOS/"
